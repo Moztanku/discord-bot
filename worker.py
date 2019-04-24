@@ -7,7 +7,7 @@ client = discord.Client()
 
 @client.event
 async def on_ready():
-    print("Gotowy do pracy 6")
+    print("Gotowy do pracy 10")
 @client.event
 async def on_message(message):
     if 'nigger' in message.content.lower() or 'nigga' in message.content.lower():
