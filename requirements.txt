@@ -1,4 +1,15 @@
 git+https://github.com/Rapptz/discord.py
+aiohttp
 async-timeout
+attrs
+chardet
 discord
 discord.py
+idna
+idna-ssl
+multidict
+pip
+setuptools
+typing-extensions
+websockets
+yarl
